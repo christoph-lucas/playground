@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Hola Mundo!");
 		System.out.println("Bonjour tout le monde!");
 		System.out.println("こんにちはみんなさん!");
+		System.out.println("Hej Världen!");
 	}
 }
